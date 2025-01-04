@@ -1,0 +1,18 @@
+Q1:
+Week 1: 语言基础
+
+Ruby 了解就行
+
+Objective_C 能读就行
+https://www.runoob.com/ios/ios-objective-c.html
+
+Swift 能看能写
+
+速成: https://www.runoob.com/swift/swift-operators.html
+官方入门: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
+
+
+
+Week 2: 环境搭建+基础框架学习
+Week 3: 包依赖管理
+Week 4: 项目实践,实现一个展示当天天气的应用Demo
