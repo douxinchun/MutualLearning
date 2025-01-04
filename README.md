@@ -13,4 +13,4 @@ Week 4: 项目实践,实现一个展示当天天气的应用Demo
 
 ### Front End
 
-[Frontend/LearningPlan.txt](https://github.com/douxinchun/MutualLearning/blob/main/Frontend/LearningPlan.txt)
+[Frontend/LearningPlan.md](https://github.com/douxinchun/MutualLearning/blob/main/Frontend/LearningPlan.md)
