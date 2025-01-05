@@ -11,8 +11,10 @@ Swift 能看能写
 速成: https://www.runoob.com/swift/swift-operators.html
 官方入门: https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 
+课外阅读 LLVM : https://zhuanlan.zhihu.com/p/340782811
 
+Runtime.h
 
-Week 2: 环境搭建+基础框架学习
-Week 3: 包依赖管理
+Week 2: 环境搭建+基础框架学习   Foundation UIKit
+Week 3: 包依赖管理 Cocoapod Catecage Swift-package(Apple)
 Week 4: 项目实践,实现一个展示当天天气的应用Demo
